@@ -2,8 +2,8 @@
   <div class="wrapper">
     <swiper :options="swiperOption">
       <!-- slides -->
-      <swiper-slide v-for="item in swiperList">
-        <img class="swiper-img" :src="item.imgUrl" :key="item.id">
+      <swiper-slide v-for="item in swiperList" v-bind:key="item.id">
+        <img class="swiper-img" v-bind:src="item.imgUrl">
       </swiper-slide>
       <div class="swiper-pagination"  slot="pagination"></div>
     </swiper>
