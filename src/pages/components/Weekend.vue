@@ -27,12 +27,12 @@ export default {
         desc: '5.27-6.2六一有优惠！点进来看呀~'
       }, {
         id: '0002',
-        imgUrl: 'http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg',
+        imgUrl: 'http://img1.qunarzz.com/sight/source/1811/b8/5d599bbdcf8b57.jpg_r_640x214_2ee055e3.jpg',
         title: '东部华侨城大侠谷',
         desc: '5.27-6.2六一有优惠！点进来看呀~'
       }, {
         id: '0003',
-        imgUrl: 'http://img1.qunarzz.com/sight/source/1811/15/66f14e0fd6fbb.jpg_r_640x214_5d69f21d.jpg',
+        imgUrl: 'http://img1.qunarzz.com/sight/source/1505/fa/ca65fde9677de2.jpg_r_640x214_4500e3ff.jpg',
         title: '东部华侨城大侠谷',
         desc: '5.27-6.2六一有优惠！点进来看呀~'
       }]
